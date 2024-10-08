@@ -1,11 +1,10 @@
-
 # Variation Generator
 
-#### [Link to the website](https://kurssivalitsin.utu.fi/course-selector)
+#### [Link to the website](https://variationtool.utu.fi)
 
 ## Overview
 
-This repository serves as a showcase for a Variation Generator tool developed during my tenure as a Research Assistant at the University of Turku. This web tool was designed to assist teachers on creating variations of exercises efficiently. 
+This repository serves as a showcase for a Variation Generator tool developed during my tenure as a Research Assistant at the University of Turku. This web tool was designed to assist teachers on creating variations of exercises efficiently.
 
 ## Project Description
 
@@ -28,7 +27,6 @@ The project was developed using the following technologies:
 - **Backend**: Node.js, Express.js, OpenAI
 - **Hosting**: Docker, UTU's virtual server
 
-
 ## Collaboration
 
 This project was a collaborative effort with my co-workers Javier Ponce Gomez and William Lempinen. Javier worked with this alone in the beginning and was responsible for the whole project until we came to assist him with William. We worked closely throughout the project lifecycle, from planning and development to testing and deployment.
@@ -49,7 +47,3 @@ Please note that the source code for this project is the property of the Univers
 ![image](https://github.com/user-attachments/assets/e4b0f014-0923-482c-b97b-48c019a21db9)
 ![image](https://github.com/user-attachments/assets/2cc16f30-7194-4a29-9b26-38e5161357c3)
 ![image](https://github.com/user-attachments/assets/69a12bb2-47ee-486f-bf37-fa1e591cb53a)
-
-
-
-
