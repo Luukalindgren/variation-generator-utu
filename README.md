@@ -24,8 +24,8 @@ The website aims to streamline the exercise variation creation process, making i
 The project was developed using the following technologies:
 
 - **Frontend**: TypeScript, Angular
-- **Backend**: Node.js, Express.js, OpenAI
-- **Hosting**: Docker, UTU's virtual server
+- **Backend**: Node.js, Express.js, OpenAI API
+- **Hosting**: Docker, Nginx, UTU's virtual server
 
 ## Collaboration
 
